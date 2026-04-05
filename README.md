@@ -1,5 +1,7 @@
 # @aibtc/mcp-server
+# @aibtc/mcp-server
 
+A lightweight MCP server designed to enable seamless interaction between AI systems and blockchain-based environments, including Bitcoin-powered applications via Stacks.
 [![npm version](https://img.shields.io/npm/v/@aibtc/mcp-server.svg)](https://www.npmjs.com/package/@aibtc/mcp-server)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -21,6 +23,11 @@ Bitcoin-native MCP server for AI agents: BTC/STX wallets, DeFi yield, sBTC peg, 
 
 ## Quick Start
 
+## 🌿 Overview
+
+The @aibtc/mcp-server provides a bridge between AI-driven systems and decentralized infrastructure. By integrating with Bitcoin through Stacks, it enables intelligent automation, data processing, and real-time interaction with blockchain networks.
+
+This server is designed for developers building next-generation Web3 applications that require both AI capabilities and secure blockchain connectivity.
 ### Claude Code (Terminal)
 
 ```bash
@@ -128,7 +135,13 @@ You: Send 10 STX to ST2DEF...
 Claude: Done! I've sent 10 STX to ST2DEF...
         Transaction: 0x123...
 ```
+## ⚙️ Features
 
+- 🔗 Integration with Bitcoin via Stacks  
+- 🤖 AI-compatible MCP interface  
+- ⚡ Lightweight and fast deployment  
+- 🧩 Modular and developer-friendly design  
+- 🔒 Secure interaction with decentralized systems  
 ### Wallet States
 
 | State | What Claude Says | What To Do |
@@ -544,7 +557,9 @@ skill/
 ```
 
 ## Development
+## 🌐 Ecosystem
 
+This project aligns with the vision of Cbow CrypteX Xverse—building intelligent, multi-chain trading infrastructure powered by AI and decentralized technologies.
 ```bash
 git clone https://github.com/aibtcdev/aibtc-mcp-server.git
 cd aibtc-mcp-server
